@@ -1,0 +1,20 @@
+{
+  "name": "@mikeyeah29/chord-diagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/chord-diagram.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node src/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "gulp": "^4.0.2",
+    "minify": "^6.0.1"
+  }
+}
